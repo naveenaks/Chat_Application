@@ -1,3 +1,10 @@
+# Chat Application.
+
+This is a simple chat application using Firebase as backend and React as a frontend. The main purpose of this project is to simple work with these elements together and to experience its implementation. Users can login into this application using their Google accounts. They can view all their messages (old and new) and chat with fellow members who have logged in. They can also logout at any time. All these changes are done in real time in Firebase(mapped). At any point of time the entire detailed information about each text is available at the backend.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
